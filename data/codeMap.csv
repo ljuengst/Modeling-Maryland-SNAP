@@ -1,0 +1,9 @@
+﻿CIT,1,born in US,2,born in US territory,3,born abroad to US parents,4,naturalized,5,not a citizen,,,,,,,,
+MAR,1,married,2,widowed,3,divorced,4,separated,5,never married,,,,,,,,
+SCHL,0,no school,1,some school,2,HS diploma or equiv,3,some college,4,college degree,,,,,,,,
+SEX,1,male,2,female,,,,,,,,,,,,,,
+ESR,1,employed,2,"employed, not at work",3,unemployed,4,armed forces,6,not in labor force,,,,,,,,
+RAC1P,1,White,2,Black,3,American Indian,4,Alaska Native,5,"Am. Indian, Alaska Native",6,Asian,7,Native Hawaiian or Pacific Isl.,8,other,9,mixed
+HHL,1,english,2,spanish,3,other indo-euro,4,"asian, pacific isl.",5,other,,,,,,,,
+MV,1,< 12 mo.,2,1 to 2 yr,3,2 to 4 yr,4,5 to 9 yr,5,10 to 19 yr,6,20 to 29 yr,7,>30 yr,,,,
+HUPAC,1,children < 6 yr,2,children 6 to 17 yr,3,children both age grp,4,no children,,,,,,,,,,
